@@ -1,5 +1,5 @@
 # News Webview App
-A mobile application that provides access to the news in detail by listing the news on a news site with webview
+A mobile application developed as an assignment within the scope of Turkcell Kotlin Bootcamp, which provides detailed access to news by listing the news on a news site with Webview.
 
 ## Tools Used in the Application
 
