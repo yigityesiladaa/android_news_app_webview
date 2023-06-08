@@ -17,5 +17,6 @@ Glide  | 4.15.1
 
 ## App Display Images
 
-<a ><img src="https://github.com/yigityesiladaa/android_news_app_webview/blob/main/app_images/home.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="300" height="600" />&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a><img src="https://github.com/yigityesiladaa/android_news_app_webview/blob/main/app_images/detail.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="300" height="600"/>&nbsp;&nbsp;&nbsp;&nbsp;</a>
+Home Screen  | Detail Screen
+------------- | -------------
+<a><img src="https://github.com/yigityesiladaa/android_news_app_webview/blob/main/app_images/home.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="300" height="600" /></a> | <a><img src="https://github.com/yigityesiladaa/android_news_app_webview/blob/main/app_images/detail.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="300" height="600"/></a>
