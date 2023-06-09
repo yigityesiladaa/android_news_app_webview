@@ -15,7 +15,7 @@ JSoup  | 1.15.4
 Glide  | 4.15.1
 </p>
 
-## App Display Images
+### App Display Images
 
 Home Screen  | Detail Screen
 ------------- | -------------
